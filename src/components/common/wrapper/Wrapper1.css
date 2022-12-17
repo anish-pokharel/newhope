@@ -1,40 +1,45 @@
 .wrapper1 {
     height: 250px;
-    padding-top: 20px;
+    /* padding-top: 20px; */
     text-align: center;
-    border: 12px solid;
-    background-color: aliceblue;
-
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(141, 157, 172);
 }
-
-
 
 .registered,
 .advice {
-    /* border: 2px solid; */
-
-    width: 700px;
-    height: 200px;
+    position: relative;
+    /* border: 4px solid; */
+    /* width: 700px; */
+    width: 650px;
+    /* height: 200px; */
+    height: 165px;
     margin: auto;
     padding: 30px;
+    border-radius: 15px;
+    /* border: none; */
 }
 
-
-
-.wrapper h3 {
+.wrapper1 h3 {
+    /* position: absolute; */
     padding: 5px;
     font-size: 25px;
+    /* border: 1px solid; */
 }
 
-
-.wrapper p {
+.wrapper1 p {
+    /* position: absolute; */
+    padding-top: 20px;
+    /* border: 1px solid; */
+    top: 30px;
     line-height: 20px;
     font-weight: 400;
     font-size: 20px;
 }
 
-.wrapper .registered:hover,
-.wrapper .advice:hover {
+.wrapper1 .registered:hover,
+.wrapper1 .advice:hover {
     background-color: rgba(7, 7, 7, 0.2);
     color: white;
     box-shadow: 0 24px 36px -11px rgb(0 0 0 / 9%);
@@ -42,7 +47,12 @@
     border-radius: 15px;
 }
 
-.wrapper button:hover {
+.wrapper1 button {
+    /* padding-bottom: 20px; */
+    margin: 15px;
+}
+
+.wrapper1 button:hover {
     background-color: rgba(7, 7, 7, 0.2);
     color: white;
 }

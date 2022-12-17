@@ -1,6 +1,5 @@
 import React from "react";
-import Wrapper from "../components/common/Wrapper";
-
+import Wrapper1 from "../components/common/wrapper/Wrapper1";
 import "../styles/Home.css";
 // import Nav from "./components/common/Nav";
 
@@ -21,6 +20,7 @@ const Home = () => {
           </button>
         </div>
       </div>
+      <Wrapper1 />
     </>
   );
 };
