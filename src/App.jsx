@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import Home from "./components/home/Home";
+import Home from "./Home";
 import About from "./About";
 import Blog from "./Blog";
 import Contact from "./Contact";
@@ -12,6 +12,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Nav from "../src/components/common/Nav";
 import Head from "./components/common/Head";
 import Footer from "./components/common/Footer/Footer";
+import Location from "./components/common/Location";
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
 
           {/* <Route path="/about" element={<About />} /> */}
         </Routes>
+        <Location />
         <Footer />
       </BrowserRouter>
     </>

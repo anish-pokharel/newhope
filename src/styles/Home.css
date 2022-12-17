@@ -1,25 +1,45 @@
-/* .outer {
-    position: absolute;
-    display:flex;
+.outer {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
     width: 100%;
+    flex-wrap: wrap;
+
     height: 600px;
     left: 0px;
     background: #EAF1F1;
     border-radius: 0px;
+
 }
+
+.imgdiv,
+.homebox {
+    border: 1px solid green;
+    width: 50%;
+
+}
+
+.imgdiv {
+    position: relative;
+}
+
 .homeimage {
     position: absolute;
-    width: 50%;
-    height: 500px;
-    left: 794px;
-    top: 150px;
+    width: 90%;
+    /* height: 400px; */
+    object-fit: contain;
+    left: 105%;
+    top: 50px;
+    margin-right: 20px;
     background: url(.jpeg);
-    border-radius: 0px;
+    border-radius: 10px;
 }
-.boxhome{
-    display:flex;
-    border:1px solid black;
+
+.boxhome {
+    display: flex;
+    border: 1px solid black;
 }
+
 .homeheader {
     position: absolute;
     width: 596px;
@@ -31,12 +51,11 @@
     font-weight: 400;
     font-size: 64px;
     line-height: 67px;
-    /* or 105% */
-/* letter-spacing: 0.96px;
-color: #000000;
-} */
+    letter-spacing: 0.96px;
+    color: #000000;
+}
 
-/* .homepara {
+.homepara {
     position: absolute;
     width: 662px;
     height: 84px;
@@ -47,8 +66,6 @@ color: #000000;
     font-weight: 400;
     font-size: 24px;
     line-height: 28px;
-
     letter-spacing: 0.216px;
     color: #1D1D1F;
 }
- */
