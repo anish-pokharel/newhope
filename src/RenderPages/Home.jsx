@@ -1,5 +1,7 @@
 import React from "react";
-import "./styles/Home.css";
+import Wrapper from "../components/common/Wrapper";
+
+import "../styles/Home.css";
 // import Nav from "./components/common/Nav";
 
 const Home = () => {
@@ -14,8 +16,9 @@ const Home = () => {
           <p className="homepara">
             Personalised Disability & Home Care Services.
           </p>
-          <button className="home_btn" onClick={() => setShowMore(!showMore)}>Click Here to Get Started</button>
-
+          <button className="home_btn" onClick={() => setShowMore(!showMore)}>
+            Click Here to Get Started
+          </button>
         </div>
       </div>
     </>

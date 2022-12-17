@@ -1,7 +1,8 @@
 import React from "react";
-import "../src/styles/Contact.css";
-import Wrapper from "./components/common/Wrapper";
-import { ContactData } from "./dummydata/ContactData";
+import "../styles/Contact.css";
+import Wrapper from "../components/common/Wrapper";
+
+import { ContactData } from "../dummydata/ContactData";
 
 const Contact = () => {
   return (

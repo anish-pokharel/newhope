@@ -1,18 +1,18 @@
 import { useState } from "react";
 import "./App.css";
-import Home from "./Home";
-import About from "./About";
-import Blog from "./Blog";
-import Contact from "./Contact";
-import Registered from "./Registered";
-import Service from "./Service";
-import Work from "./Work";
+import Home from "./RenderPages/Home";
+import About from "./RenderPages/About";
+import Blog from "./RenderPages/Blog";
+import Contact from "./RenderPages/Contact";
+import Registered from "./RenderPages/Registered";
+import Service from "./RenderPages/Service";
+import Work from "./RenderPages/Work";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Nav from "../src/components/common/Nav";
+import Nav from "./components/common/Nav";
 import Head from "./components/common/Head";
 import Footer from "./components/common/Footer/Footer";
-import Location from "../src/components/common/Location/Location";
+import Location from "./components/common/Location/Location";
 
 function App() {
   return (
