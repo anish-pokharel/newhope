@@ -13,6 +13,7 @@ import Nav from "./components/common/Nav";
 import Head from "./components/common/Head";
 import Footer from "./components/common/Footer/Footer";
 import Location from "./components/common/Location/Location";
+import Contactus from "./components/common/Contactus/Contactus";
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
 
           {/* <Route path="/about" element={<About />} /> */}
         </Routes>
+        <Contactus />
         <Location />
         <Footer />
       </BrowserRouter>
