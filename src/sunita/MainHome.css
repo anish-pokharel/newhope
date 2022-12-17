@@ -1,0 +1,56 @@
+h1{
+position: absolute;
+width: 596px;
+height: 135px;
+left: 76px;
+top: 126px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 67px;
+/* or 105% */
+
+letter-spacing: 0.96px;
+
+color: #000000;
+}
+p{
+position: absolute;
+width: 662px;
+height: 84px;
+left: 76px;
+top: 285px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+/* or 117% */
+
+letter-spacing: 0.216px;
+
+color: #1D1D1F;
+
+}
+img{
+position: absolute;
+width: 790px;
+height: 500px;
+left: 794px;
+top: 199px;
+
+background: url(.png);
+border-radius: 0px;
+}
+.outer{
+    position: absolute;
+    width: 1519px;
+    height: 600px;
+    left: 0px;
+    top: 25px;
+    background: #EAF1F1;
+    border-radius: 0px;
+}
