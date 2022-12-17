@@ -3,8 +3,8 @@ import "./Contactus.css";
 
 const Contactus = () => {
   return (
-    <div>
-      <h1>hello from contacct</h1>
+    <div className="main_cont">
+      
     </div>
   );
 };
