@@ -9,11 +9,12 @@
 
  .contact-section {
      position: absolute;
-     top: 550px;
+     top: 600px;
      text-align: center;
      align-items: center;
      padding: 30px;
      left: 20%;
+     /* background-color: white; */
  }
 
  .contact-section h2 {

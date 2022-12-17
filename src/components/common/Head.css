@@ -63,7 +63,7 @@ header ul li a:hover {
     .toggle {
         display: block;
         background: none;
-        color: #fff;
+        color: rgb(33, 32, 32);
         font-size: 30px;
         position: absolute;
         right: 0;
