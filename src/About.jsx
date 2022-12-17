@@ -1,7 +1,12 @@
 import React from "react";
+import Wrapper from "./components/common/Wrapper";
 
 const About = () => {
-  return <div>About</div>;
+  return (
+    <>
+      <Wrapper title="About " subtitle="About" />
+    </>
+  );
 };
 
 export default About;

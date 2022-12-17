@@ -1,7 +1,12 @@
 import React from "react";
+import Wrapper from "./components/common/Wrapper";
 
 const Registered = () => {
-  return <div>Registered</div>;
+  return (
+    <>
+      <Wrapper title="Registered" subtitle=" regristration" />
+    </>
+  );
 };
 
 export default Registered;

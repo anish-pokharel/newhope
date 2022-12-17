@@ -18,5 +18,13 @@ body {
 
 .container {
     margin: auto;
-    max-width: 85%;
+    /* max-width: 85%; */
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
 }

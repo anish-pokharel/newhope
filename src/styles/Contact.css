@@ -1,0 +1,35 @@
+ /* .contact {
+     position: relative;
+     background-color: rgb(255, 242, 242);
+     width: 100%;
+     height: 1944px;
+     border: 1px solid;
+
+ } */
+
+ .contact-section {
+     position: absolute;
+     top: 550px;
+     text-align: center;
+     padding: 30px;
+ }
+
+ .contact-section h2 {
+     padding: 20px 0;
+ }
+
+ /* .contact-section h2 {
+
+     position: absolute;
+     width: 351px;
+     height: 58px;
+     left: 580px;
+     font-family: 'Vollkorn';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 36px;
+     line-height: 58px; */
+ /* identical to box height, or 160% */
+ /* text-align: center;
+color: #3A5668; */
+ /* } */

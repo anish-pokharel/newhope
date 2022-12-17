@@ -1,7 +1,14 @@
 import React from "react";
+import Wrapper from "./components/common/Wrapper";
 
 const Service = () => {
-  return <div>Service</div>;
+  return (
+    <>
+      <>
+        <Wrapper title=" Service" subtitle="Service" />
+      </>
+    </>
+  );
 };
 
 export default Service;

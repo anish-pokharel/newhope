@@ -1,7 +1,12 @@
 import React from "react";
+import Wrapper from "./components/common/Wrapper";
 
 const Blog = () => {
-  return <div>Blog</div>;
+  return (
+    <>
+      <Wrapper title="Blog" subtitle=" blog with us" />
+    </>
+  );
 };
 
 export default Blog;

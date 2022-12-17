@@ -23,10 +23,10 @@ const Nav = () => {
               <NavLink to={"/about"}>About</NavLink>
             </li>
             <li>
-              <NavLink to={"/registered"}>Team</NavLink>
+              <NavLink to={"/registered"}>Registered</NavLink>
             </li>
             <li>
-              <NavLink to={"/contact"}>Pricing</NavLink>
+              <NavLink to={"/contact"}>Contact</NavLink>
             </li>
             <li>
               <NavLink to={"/work"}>Work</NavLink>
