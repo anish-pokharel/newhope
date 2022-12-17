@@ -19,7 +19,7 @@ header {
 }
 
 header .nav {
-    display: flex !important;
+    display: flex;
 }
 
 header ul {

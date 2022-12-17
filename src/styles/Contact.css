@@ -11,11 +11,18 @@
      position: absolute;
      top: 550px;
      text-align: center;
+     align-items: center;
      padding: 30px;
+     left: 20%;
  }
 
  .contact-section h2 {
      padding: 20px 0;
+     font-family: 'Vollkorn';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 36px;
+     text-align: center;
  }
 
  /* .contact-section h2 {
