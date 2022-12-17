@@ -1,7 +1,7 @@
 import React from "react";
-import "./Fotter.css";
+import "./Footer.css";
 
-const Fotter = () => {
+const Footer = () => {
   return (
     <>
       <section id="foot">
@@ -50,4 +50,4 @@ const Fotter = () => {
   );
 };
 
-export default Fotter;
+export default Footer;
