@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
+import "./Head.css";
 
 const Nav = () => {
   const [click, setClick] = useState(false);

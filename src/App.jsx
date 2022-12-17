@@ -1,5 +1,4 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
 import "./App.css";
 import Home from "./components/home/Home";
 import About from "./About";
@@ -10,7 +9,7 @@ import Service from "./Service";
 import Work from "./Work";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Nav from "./components/Nav";
+import Nav from "../src/components/common/Nav";
 import Head from "./components/common/Head";
 
 function App() {
