@@ -15,19 +15,17 @@ const Contact = () => {
             form below and our Care Advisors will be in touch soon.
           </p>
           <div className="box">
-            {ContactData.map((val, index) => {
+            {ContactData.map((val) => {
               return (
-                <>
-                  <div className="flexSi" key={val.id}>
-                    <div className="logoSi">
-                      <i className={val.logo}></i>
-                    </div>
-                    <div className="text">
-                      <h2>{val.title}</h2>
-                      <p>{val.desc}</p>
-                    </div>
+                <div className="flexSi" key={val.id}>
+                  <div className="logoSi">
+                    <i className={val.logo}></i>
                   </div>
-                </>
+                  <div className="text">
+                    <h2>{val.title}</h2>
+                    <p>{val.desc}</p>
+                  </div>
+                </div>
               );
             })}
           </div>

@@ -12,7 +12,8 @@
     left: 0%;
     background-color: white;
     width: 100%;
-    border: 10px solid black;
+    /* border: 10px solid black; */
+
 }
 
 .contact-section h2 {
@@ -29,6 +30,7 @@
 }
 
 .box {
+    /* border: 1px solid black; */
     height: 360px;
     margin: 30px;
 
@@ -36,6 +38,7 @@
 
 .flexSi {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    /* border: 2px solid black; */
     margin: 20px;
 }
 
