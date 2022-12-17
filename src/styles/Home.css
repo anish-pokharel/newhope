@@ -9,20 +9,15 @@
     left: 0px;
     background: #EAF1F1;
     border-radius: 0px;
-
 }
-
 .imgdiv,
 .homebox {
-    border: 1px solid green;
+    border: 1px;
     width: 50%;
-
 }
-
 .imgdiv {
     position: relative;
 }
-
 .homeimage {
     position: absolute;
     width: 90%;
@@ -68,4 +63,13 @@
     line-height: 28px;
     letter-spacing: 0.216px;
     color: #1D1D1F;
+}
+.home_btn{
+    position: absolute;
+    width: 326px;
+    height: 61px;
+    left: 76px;
+    top: 330px;
+    background: #c89079;
+    border-radius: 0px;
 }

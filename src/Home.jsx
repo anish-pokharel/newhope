@@ -14,6 +14,8 @@ const Home = () => {
           <p className="homepara">
             Personalised Disability & Home Care Services.
           </p>
+          <button className="home_btn" onClick={() => setShowMore(!showMore)}>Click Here to Get Started</button>
+
         </div>
       </div>
     </>
