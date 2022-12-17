@@ -32,9 +32,9 @@ function App() {
 
           {/* <Route path="/about" element={<About />} /> */}
         </Routes>
-        <Contactus />
         <Location />
         <Footer />
+        <Contactus />
       </BrowserRouter>
     </>
   );
