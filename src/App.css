@@ -44,3 +44,8 @@ li {
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
+.container1 {
+    height: 13rem;
+    width: 100%;
+}

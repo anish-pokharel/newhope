@@ -12,7 +12,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Nav from "../src/components/common/Nav";
 import Head from "./components/common/Head";
 import Footer from "./components/common/Footer/Footer";
-import Location from "./components/common/Location";
+import Location from "../src/components/common/Location/Location";
 
 function App() {
   return (

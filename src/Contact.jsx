@@ -1,6 +1,5 @@
 import React from "react";
 import "../src/styles/Contact.css";
-import Location from "./components/common/Location";
 import Wrapper from "./components/common/Wrapper";
 import { ContactData } from "./dummydata/ContactData";
 
