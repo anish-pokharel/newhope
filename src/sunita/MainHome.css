@@ -7,16 +7,16 @@
     background: #EAF1F1;
     border-radius: 0px;
 }
-.image {
+.homeimage {
     position: absolute;
     width: 50%;
     height: 500px;
     left: 794px;
-    top: 199px;
+    top: 150px;
     background: url(.jpeg);
     border-radius: 0px;
 }
-.box{
+.boxhome{
     display:flex;
     border:1px solid black;
 }
