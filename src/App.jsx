@@ -11,6 +11,7 @@ import Work from "./Work";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Nav from "../src/components/common/Nav";
 import Head from "./components/common/Head";
+import Footer from "./components/common/Footer/Footer";
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
 
           {/* <Route path="/about" element={<About />} /> */}
         </Routes>
+        <Footer />
       </BrowserRouter>
     </>
   );
