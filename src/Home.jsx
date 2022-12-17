@@ -7,7 +7,7 @@ const Home = () => {
     <>
       <div className="outer">
         <div className="left imgdiv">
-          <img className="homeimage" src="new.jpeg"></img>
+          <img className="homeimage" src="new.jpeg" />
         </div>
         <div className="right homebox">
           <h1 className="homeheader">We Care With Respect</h1>
