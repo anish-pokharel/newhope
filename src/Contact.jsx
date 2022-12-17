@@ -1,12 +1,13 @@
 import React from "react";
 import "../src/styles/Contact.css";
+import Location from "./components/common/Location";
 import Wrapper from "./components/common/Wrapper";
 import { ContactData } from "./dummydata/ContactData";
 
 const Contact = () => {
   return (
     <>
-      <section className="maincontainer1 contact">
+      <div className="maincontainer1 contact">
         <Wrapper title="contact us" subtitle="Contact" />
         <div className="contact-section">
           <h2>Ready To Learn More ?</h2>
@@ -32,7 +33,7 @@ const Contact = () => {
             })}
           </div>
         </div>
-      </section>
+      </div>
     </>
   );
 };
