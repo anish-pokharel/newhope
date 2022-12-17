@@ -8,3 +8,35 @@
     background: #d05454;
     border-radius: 0px;
 }
+.h_cont{
+    position: absolute;
+    width: 453px;
+    height: 55px;
+    left: 176px;
+    top: 2949px;
+    
+    font-family: 'Vollkorn';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 50px;
+    /* or 140% */
+    
+    text-align: center;
+    
+    color: #3A5668;
+}
+.p_cont{
+    position: absolute;
+    width: 543px;
+    height: 58px;
+    left: 131px;
+    top: 3011px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    text-align: center;
+    color: #3A5668;
+}
