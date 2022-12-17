@@ -28,3 +28,13 @@ a {
 li {
     list-style: none;
 }
+
+.box {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 30px;
+}
+
+.box1 {
+    border: 1px solid black;
+}
