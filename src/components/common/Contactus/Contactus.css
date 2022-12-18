@@ -72,6 +72,7 @@
     border: 1px solid #C4C4C4;
     color: aqua;
     border-radius: 0px;
+    font-weight: 500;
 }
 .cont_email{
     box-sizing: border-box;
@@ -83,6 +84,7 @@
     background: #F7F7F7;
     border: 1px solid #C4C4C4;
     border-radius: 0px;
+    font-weight: 500;
 }
 .cont_phone{
     box-sizing: border-box;
@@ -94,6 +96,7 @@
     background: #F7F7F7;
     border: 1px solid #C4C4C4;
     border-radius: 0px;
+    font-weight: 500;
 }
 .textare{
     box-sizing: border-box;
@@ -105,6 +108,7 @@
     background: #F7F7F7;
     border: 1px solid #C4C4C4;
     border-radius: 0px;
+    font-weight: 500;
 }
 .cont_sub{
     position: absolute;
@@ -112,6 +116,15 @@
     height: 45px;
     left: 729px;
     top: 500px;
-    background: #fffafa;
+    background: #0f0e0e;
     border-radius: 0px;
+    font-weight: 500;
+    color:aliceblue
+}
+Enter Your Name{
+    font-weight: 500;
+}
+
+submit{
+    font-weight: 500;
 }
