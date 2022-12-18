@@ -1,19 +1,19 @@
 .main_cont {
-    /* position: absolute; */
+    position: absolute;
     width: 100%;
-    height: 100vh;
-    /* height: 800px; */
+    height: 974px;
     /* left: -30px; */
-    /* top: 2921px; */
-    background: #d05454;
+    /* top: 2px; */
+    background: #958b8b;
     border-radius: 0px;
+    background-img: url("back.jpg");
 }
 .h_cont{
     position: absolute;
     width: 453px;
     height: 55px;
-    left: 176px;
-    top: 2949px;
+    /* left: 176px; */
+    /* top: 2949px; */
     
     font-family: 'Vollkorn';
     font-style: normal;
@@ -30,8 +30,8 @@
     position: absolute;
     width: 543px;
     height: 58px;
-    left: 131px;
-    top: 3011px;
+    /* left: 131px; */
+    /* top: 3011px; */
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;

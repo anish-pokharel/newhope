@@ -61,7 +61,7 @@
     font-size: 24px;
     line-height: 28px;
     letter-spacing: 0.216px;
-    color: #1D1D1F;
+    color: #1f1e1d;
 }
 .home_btn{
     position: absolute;
@@ -70,5 +70,7 @@
     left: 76px;
     top: 330px;
     background: #c89079;
+    color:black;
     border-radius: 0px;
+    font-weight: bolder;
 }
