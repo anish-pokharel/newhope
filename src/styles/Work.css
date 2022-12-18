@@ -1,0 +1,20 @@
+.first-work{
+    position: absolute;
+    width: 1519px;
+    height: 400px;
+}
+.work-page{
+    /* position: absolute; */
+    width: 100px;
+    height: 62px;
+    font-family: 'Vollkorn';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 62px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    background-image: url("work.jpeg");
+    
+}

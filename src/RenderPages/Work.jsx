@@ -5,6 +5,9 @@ const Work = () => {
   return (
     <>
       <Wrapper title="Work" subtitle=" Work" />
+      <div className="first-work">
+         <h1 className="work-page"> With Us</h1>
+      </div>
     </>
   );
 };
