@@ -1,32 +1,27 @@
 .main_cont {
-    position: absolute;
+    position: relative;
     width: 100%;
     height: 974px;
-    /* left: -30px; */
-    /* top: 2px; */
     background: #958b8b;
     border-radius: 0px;
-        /* background-image: url("back.jpg"); */
+    background-image: url("baack.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    z-index: -1;
 }
-/* .cont_hp{ */
 .h_cont{
     position: absolute;
     width: 500px;
     height: 60px;
     left: 200px;
-    /* top: 2000px; */
-    
-
-    background-image: url("./back.jpg");
+    font-size:larger;
+    font-weight: 900;
 }
-
 .h_cont {
     position: absolute;
     width: 453px;
     height: 55px;
-    /* left: 176px; */
-    /* top: 2949px; */
-
     font-family: 'Vollkorn';
     font-style: normal;
     font-weight: 400;
@@ -35,7 +30,6 @@
     text-align: center;
     color: white;
 }
-
 .p_cont {
     position: absolute;
     width: 543px;
@@ -44,7 +38,7 @@
     top: 70px;
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 700;
     font-size: 18px;
     line-height: 29px;
     text-align: center;
@@ -55,8 +49,69 @@
     width: 1519px;
     height: 653px;
     left: 0px;
-    top: 3104px;
-    background: #D9D9D9;
+    top: 150px;
     border-radius: 0px;
-    background-image: url("back.jpg");
+    margin:60px;
+}
+/* .cont_form{
+    box-sizing: border-box;
+    border: 1px;
+    width:800px;
+} */
+/* input{
+    padding:20px;
+} */
+.form_name{
+    box-sizing: border-box;
+    position: absolute;
+    width: 750px;
+    height: 45px;
+    left: 28px;
+    top: 10px;
+    background: #F7F7F7;
+    border: 1px solid #C4C4C4;
+    color: aqua;
+    border-radius: 0px;
+}
+.cont_email{
+    box-sizing: border-box;
+    position: absolute;
+    width: 750px;
+    height: 45px;
+    left: 28px;
+    top: 100px;
+    background: #F7F7F7;
+    border: 1px solid #C4C4C4;
+    border-radius: 0px;
+}
+.cont_phone{
+    box-sizing: border-box;
+    position: absolute;
+    width: 750px;
+    height: 45px;
+    left: 28px;
+    top: 190px;
+    background: #F7F7F7;
+    border: 1px solid #C4C4C4;
+    border-radius: 0px;
+}
+.textare{
+    box-sizing: border-box;
+    position: absolute;
+    width: 750px;
+    height: 200px;
+    left: 28px;
+    top: 280px;
+    background: #F7F7F7;
+    border: 1px solid #C4C4C4;
+    border-radius: 0px;
+}
+.cont_sub{
+    position: absolute;
+    width: 163px;
+    height: 45px;
+    left: 729px;
+    top: 500px;
+    background: #fffafa;
+    border-radius: 0px;
 }
