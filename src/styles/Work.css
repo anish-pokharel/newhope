@@ -1,20 +1,27 @@
 .first-work{
     position: absolute;
-    width: 1519px;
-    height: 400px;
+    width: 100%;
+    height: 700px;
+    background-image: url("workk.jpg");
+    border-radius: 0px;
+    top:185px;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* z-index: -1; */
+    background-size: cover;
 }
 .work-page{
     /* position: absolute; */
-    width: 100px;
+    width: 100%;
     height: 62px;
     font-family: 'Vollkorn';
     font-style: normal;
     font-weight: 400;
     font-size: 44px;
     line-height: 62px;
-    text-align: center;
+    left:400px;
     text-transform: capitalize;
-    color: #FFFFFF;
-    background-image: url("work.jpeg");
+    color: #0e0c0c;
+    
     
 }

@@ -6,7 +6,7 @@ const Work = () => {
     <>
       <Wrapper title="Work" subtitle=" Work" />
       <div className="first-work">
-         <h1 className="work-page"> With Us</h1>
+         <h1 className="work-page">Work With Us</h1>
       </div>
     </>
   );
