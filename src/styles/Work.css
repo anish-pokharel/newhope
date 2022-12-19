@@ -4,7 +4,7 @@
     height: 700px;
     background-image: url("workk.jpg");
     border-radius: 0px;
-    top:185px;
+    top:186.5px;
     background-repeat: no-repeat;
     background-position: center;
     /* z-index: -1; */
@@ -37,4 +37,11 @@
     color: black;
     left:125px;
     top:175px;
+}
+.nextpara{
+    position: absolute;
+    width: 1515px;
+    height: 716px;
+    background: #f15757;
+    top:3000px;
 }
