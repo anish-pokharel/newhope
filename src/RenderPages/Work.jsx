@@ -23,9 +23,12 @@ const Work = () => {
             interest below and we’ll be in touch when suitable positions become
             available.
           </p>
-
-          <div className="photooo"></div>
+          <div className="facebookk"></div>
+          <div className="instagramm"></div>
+          <div className="linkedinn"></div>
+          <div className="twitterr"></div>
         </div>
+        <div className="photooo"></div>
         <div className="new-formm"></div>
       </section>
     </>
