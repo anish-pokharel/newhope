@@ -44,10 +44,44 @@
     top: 175px;
 }
 
-.next-para {
-    position: absolute;
+.nextpara {
+    position: relative;
     width: 100%px;
     height: 716px;
-    background: #111010;
-    top:1500px;
+    background: #d9d2d2;
+    top:500px;
+    margin-top: 20px;
+    background-image: url("job.jpg");
 }
+.work-head{
+    position: absolute;
+    width: 320.93px;
+    height: 86.6px;
+    font-family: 'Vollkorn';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 58px;
+    color: #090909;
+    left: 200px;
+    margin:50px;
+}
+.work-newp{
+    position: absolute;
+    width: 500px;
+    height: 80.41px;
+    font-family:'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    /* line-height: 26px; */
+    color: #090a0a;
+    box-sizing: border-box;
+    margin:120px;
+    left:50px;
+}
+/* .photooo{
+    position: absolute;
+    width: 634px;
+    height: 327px;
+    /* background: url("job.jpg"); */
