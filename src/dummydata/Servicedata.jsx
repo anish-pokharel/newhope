@@ -37,3 +37,30 @@ export const serviceData = [
     ],
   },
 ];
+
+// export const AboutData = [
+//   {
+//     id: 1,
+//     cover: "",
+//     title: "Honesty",
+//     desc: "We provide high quality care with transparency and integrity.",
+//   },
+//   {
+//     id: 1,
+//     cover: "",
+//     title: "Respect",
+//     desc: "We provide a safe environment for participants by giving them respect.",
+//   },
+//   {
+//     id: 1,
+//     cover: "",
+//     title: "Inclusiveness",
+//     desc: "We provide a happy, fun and open environment for all.",
+//   },
+//   {
+//     id: 1,
+//     cover: "",
+//     title: "Quality",
+//     desc: "We strive for excellence through high quality systems and procedures.",
+//   },
+// ];

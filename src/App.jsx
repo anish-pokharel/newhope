@@ -34,7 +34,7 @@ function App() {
         </Routes>
         <Location />
         <Footer />
-        <Contactus />
+        {/* <Contactus /> */}
       </BrowserRouter>
     </>
   );

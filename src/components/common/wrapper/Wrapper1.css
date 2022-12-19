@@ -10,28 +10,20 @@
 .registered,
 .advice {
     position: relative;
-    /* border: 4px solid; */
-    /* width: 700px; */
     width: 650px;
-    /* height: 200px; */
     height: 165px;
     margin: auto;
     padding: 30px;
     border-radius: 15px;
-    /* border: none; */
 }
 
 .wrapper1 h3 {
-    /* position: absolute; */
     padding: 5px;
     font-size: 25px;
-    /* border: 1px solid; */
 }
 
 .wrapper1 p {
-    /* position: absolute; */
     padding-top: 20px;
-    /* border: 1px solid; */
     top: 30px;
     line-height: 20px;
     font-weight: 400;
@@ -48,7 +40,6 @@
 }
 
 .wrapper1 button {
-    /* padding-bottom: 20px; */
     margin: 15px;
 }
 

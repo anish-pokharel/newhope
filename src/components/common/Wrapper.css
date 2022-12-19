@@ -2,8 +2,8 @@
     position: relative;
     background-color: rgb(255, 242, 242);
     width: 100%;
-    height: 1944px;
-    border: 1px solid;
+    height: 25rem;
+    /* border: 10px solid black; */
 
 }
 
@@ -15,7 +15,7 @@
     left: 0;
     /* top: 90px; */
     background: #A58E8E;
-    border: 4px solid green;
+    /* border: 4px solid green; */
 }
 
 .wrapper h1 {
