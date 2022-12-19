@@ -63,7 +63,8 @@
     font-size: 36px;
     line-height: 58px;
     color: #090909;
-    left: 200px;
+    left: 400px;
+    top:100px;
     margin:50px;
 }
 .work-newp{
@@ -78,10 +79,19 @@
     color: #090a0a;
     box-sizing: border-box;
     margin:120px;
-    left:50px;
+    left:250px;
+    top:110px
+
 }
-/* .photooo{
+.photooo{
     position: absolute;
     width: 634px;
     height: 327px;
-    /* background: url("job.jpg"); */
+    left:1000px;
+    box-sizing: border-box ;
+    background: url("jpb.jpg");
+    top:100px;
+}
+/* .new-form{
+       
+} */
