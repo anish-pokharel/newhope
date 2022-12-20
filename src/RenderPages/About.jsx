@@ -1,43 +1,25 @@
 import React from "react";
 import Wrapper from "../components/common/Wrapper";
-import BoxSection from "../components/CommonRender/BoxSection";
 import { AboutData } from "../dummydata/AboutData";
+import MainBox from "../components/CommonRender/MainBox";
 import "../styles/About.css";
 
 const About = () => {
   return (
     <>
       <Wrapper title="About " subtitle="About" />
-      {AboutData.map((val) => {
-        return (
-          <div className="box">
-            <BoxSection
+      <div className="container grid grid-four-column">
+        {AboutData.map((val) => {
+          return (
+            <MainBox
               key={val.id}
-              logo={val.logo}
+              cover={val.logo}
               title={val.title}
               desc={val.desc}
             />
-            {/* <BoxSection
-              key={val.id}
-              logo={val.logo}
-              title={val.title}
-              desc={val.desc}
-            />
-            <BoxSection
-              key={val.id}
-              logo={val.logo}
-              title={val.title}
-              desc={val.desc}
-            />
-            <BoxSection
-              key={val.id}
-              logo={val.logo}
-              title={val.title}
-              desc={val.desc}
-            /> */}
-          </div>
-        );
-      })}
+          );
+        })}
+      </div>
     </>
   );
 };

@@ -1,5 +1,6 @@
 import React from "react";
 import "./MainBox.css";
+import { NavLink } from "react-router-dom";
 
 const MainBox = ({ id, cover, title, desc }) => {
   return (
@@ -12,7 +13,7 @@ const MainBox = ({ id, cover, title, desc }) => {
           <h3>{title}</h3>
           <p>{desc}</p>
           <NavLink to="/service">
-            <Button className="btn">Read More</Button>
+            <button className="btn">Read More</button>
           </NavLink>
         </div>
       </div>
