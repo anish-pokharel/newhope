@@ -12,7 +12,7 @@ const HomeService = () => {
             <MainBox
               key={val.id}
               cover={val.cover}
-              titile={val.title}
+              title={val.title}
               desc={val.desc}
             />
           );
