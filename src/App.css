@@ -53,7 +53,7 @@ li {
 
 .container-box {
     max-width: 120rem;
-    margin: 0 auto;
+    /* margin: 0 auto; */
 }
 
 button {
@@ -79,7 +79,7 @@ button:hover {
 
 .grid {
     display: grid;
-    gap: 9rem;
+    gap: 4rem;
 }
 
 .grid-two-column {
@@ -97,6 +97,7 @@ button:hover {
 
 .common-heading {
     text-align: center;
+    padding: 2rem;
 }
 
 /* @media screen and (min-device-width: 768px) {

@@ -21,8 +21,8 @@ const Home = () => {
           </button>
         </div>
       </div>
-      <Wrapper1 />
       <HomeService />
+      <Wrapper1 />
     </>
   );
 };
