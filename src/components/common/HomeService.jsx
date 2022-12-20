@@ -1,4 +1,5 @@
 import React from "react";
+import { ServiceData } from "../../dummydata/Servicedata";
 import MainBox from "../CommonRender/MainBox";
 
 const HomeService = () => {
@@ -6,7 +7,10 @@ const HomeService = () => {
     <>
       <h2 className="common-heading"> Our Services </h2>
       <div className="container grid grid-three-column">
-        <MainBox />
+        {ServiceData.map((val) => {
+          return <MainBox />;
+        })}
+        {/* <MainBox /> */}
       </div>
     </>
   );
