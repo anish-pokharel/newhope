@@ -43,7 +43,6 @@
     left: 125px;
     top: 175px;
 }
-
 .nextpara {
     position: relative;
     width: 100%px;
@@ -122,4 +121,16 @@
     background-image:url("twitter.png") ;
     top:450px;
     left:1450px;
+}
+.h-work{
+    position: relative;
+    width: 427px;
+    height: 58px;
+    font-family: 'Vollkorn';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 58px;
+    text-align: center;
+    color:#3A5668;
 }
