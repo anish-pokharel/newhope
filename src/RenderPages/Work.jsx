@@ -16,6 +16,7 @@ const Work = () => {
             from you.
           </p>
         </div>
+        <div className="next-wpage">
         <div className="nextpara">
           <h1 className="work-head">Current Vacancies</h1>
           <p className="work-newp">
@@ -28,8 +29,11 @@ const Work = () => {
           <div className="linkedinn"></div>
           <div className="twitterr"></div>
         </div>
+        </div>
         <div className="photooo"></div>
-        <div className="new-formm"></div>
+        <div className="new-formm">
+          <h1 className="h-work">Join The Hopeability Team</h1>
+        </div>
       </section>
     </>
   );
