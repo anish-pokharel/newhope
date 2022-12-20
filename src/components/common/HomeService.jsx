@@ -6,7 +6,7 @@ const HomeService = () => {
   return (
     <>
       <h2 className="common-heading"> Our Services </h2>
-      <div className="container grid grid-three-column">
+      <div className="container-box grid grid-three-column">
         {ServiceData.map((val) => {
           return (
             <MainBox

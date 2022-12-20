@@ -51,6 +51,11 @@ li {
     width: 100%;
 }
 
+.container-box {
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
 button {
     padding: 17px 30px;
     background-color: #fff;

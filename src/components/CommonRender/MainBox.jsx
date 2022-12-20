@@ -10,7 +10,7 @@ const MainBox = ({ id, cover, title, desc }) => {
           <img src={cover} alt={title} />
         </figure>
         <div className="card-data">
-          <h3>{title}</h3>
+          <h3 className="mainboxhead">{title}</h3>
           <p>{desc}</p>
           <NavLink to="/service">
             <button className="btn">Read More</button>
