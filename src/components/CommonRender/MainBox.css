@@ -1,3 +1,7 @@
+.main_padding {
+    padding: 9rem 0;
+}
+
 .card {
     border: 0.1rem solid rgb(170 170 170 / 40%);
 }

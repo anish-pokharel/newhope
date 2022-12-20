@@ -95,6 +95,10 @@ button:hover {
     gap: 2rem;
 }
 
+.common-heading {
+    text-align: center;
+}
+
 /* @media screen and (min-device-width: 768px) {
     .box {
         display: grid;

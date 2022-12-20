@@ -5,18 +5,20 @@ import { NavLink } from "react-router-dom";
 const MainBox = ({ id, cover, title, desc }) => {
   return (
     <>
-      <div className="card" key={id}>
-        <figure>
-          <img src={cover} alt={title} />
-        </figure>
-        <div className="card-data">
-          <h3 className="mainboxhead">{title}</h3>
-          <p>{desc}</p>
-          <NavLink to="/service">
-            <button className="btn">Read More</button>
-          </NavLink>
+      <section className="main_padding">
+        <div className="card" key={id}>
+          <figure>
+            <img src={cover} alt={title} />
+          </figure>
+          <div className="card-data">
+            <h3 className="mainboxhead">{title}</h3>
+            <p>{desc}</p>
+            <NavLink to="/service">
+              <button className="btn">Read More</button>
+            </NavLink>
+          </div>
         </div>
-      </div>
+      </section>
     </>
   );
 };
