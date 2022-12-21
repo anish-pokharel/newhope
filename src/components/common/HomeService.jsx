@@ -22,8 +22,8 @@ const HomeService = () => {
           met consectetur adipisicing elit. Soluta, inventore minus odio
           consectetur minima voluptatem eveniet ijhgkjjjjjjj djgkh fhjdhgdjg
           ldjkgkjglum ipsam ratione voluptates ex qui sunt quisquam! Consequatur
-          vpossimus accusamus dicta placeat tfrxujhfgchkuhouigl,hjsuscipit
-          inventore hic quo laboriosam expedita. Eum d
+          vpossimus accusam hgfj kghjfdhg dfdhgj houigl,hjsuscipit inventore hic
+          quo laboriosam expedita. Eum d
         </p>
         ;
       </div>{" "}
