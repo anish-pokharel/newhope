@@ -17,11 +17,20 @@ const HomeService = () => {
             />
           );
         })}
-        <h1>
+        ;
+        {/* <h1>
           Hello mr Anish Pokharel tya khana khani malai maya garni malai
           timlaliyehi rakhyera care garna man xa mero sanu babe lai i loves you
           mero muutu .um amammamamammamamma
-        </h1>
+        </h1> */}
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta,
+          inventore minus odio consectetur minima voluptatem eveniet illum ipsam
+          ratione voluptates ex qui sunt quisquam! Consequatur vpossimus
+          accusamus dicta placeat quam, quae neque rem nulla totam ex suscipit
+          inventore hic quo laboriosam expedita. Eum deleniti modi id
+          accusantium totam?
+        </p>
         ;
       </div>
     </>
