@@ -14,6 +14,7 @@ import Head from "./components/common/Head";
 import Footer from "./components/common/Footer/Footer";
 import Location from "./components/common/Location/Location";
 import Contactus from "./components/common/Contactus/Contactus";
+import Error from "./RenderPages/Error";
 
 function App() {
   return (
@@ -29,7 +30,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/work" element={<Work />} />
           <Route path="/blog" element={<Blog />} />
-
+          <Route path="*" element={<Error />} />
           {/* <Route path="/about" element={<About />} /> */}
         </Routes>
         <Location />

@@ -9,7 +9,7 @@ const Service = () => {
       <>
         <Wrapper title=" Service" subtitle="Service" />
         <div className="container-box grid grid-four-column">
-          <MainBox />
+          {/* <MainBox /> */}
         </div>
       </>
     </>
