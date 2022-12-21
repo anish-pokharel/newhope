@@ -18,18 +18,12 @@ const HomeService = () => {
           );
         })}
         ;
-        {/* <h1>
-          Hello mr Anish Pokharel tya khana khani malai maya garni malai
-          timlaliyehi rakhyera care garna man xa mero sanu babe lai i loves you
-          mero muutu .um amammamamammamamma
-        </h1> */}
         <p>
           met consectetur adipisicing elit. Soluta, inventore minus odio
-          consectetur minima voluptatem eveniet
-          ildfffffffffffffffffffffffffffffffffhgjjhhdlum ipsam ratione
-          voluptates ex qui sunt quisquam! Consequatur vpossimus accusamus dicta
-          placeat tfrxujhfgchkuhouigl,hjsuscipit inventore hic quo laboriosam
-          expedita. Eum d
+          consectetur minima voluptatem eveniet ijhgkjjjjjjj djgkh fhjdhgdjg
+          ldjkgkjglum ipsam ratione voluptates ex qui sunt quisquam! Consequatur
+          vpossimus accusamus dicta placeat tfrxujhfgchkuhouigl,hjsuscipit
+          inventore hic quo laboriosam expedita. Eum d
         </p>
         ;
       </div>{" "}
