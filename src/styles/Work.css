@@ -87,8 +87,9 @@
     height: 327px;
     left:955px;
     box-sizing: border-box ;
-    background: url("jpb.jpg");
+    background: url("job.jpg");
     top:100px;
+    background-repeat: no-repeat;
 }
 .facebookk{
     position: absolute;
@@ -122,6 +123,12 @@
     top:450px;
     left:1450px;
 }
+.new-formm{
+    position: relative;
+    width: 742px;
+    height: 1070px;
+    background: #f42929;
+}
 .h-work{
     position: relative;
     width: 427px;
@@ -132,5 +139,25 @@
     font-size: 36px;
     line-height: 58px;
     text-align: center;
-    color:#3A5668;
+    color:#f7fcfe;
+}
+@media screen and (max-width:600px) {
+    .work-h {
+        font-size:36px;
+        line-height:50px;
+    }
+    .work_para {
+        position: absolute;
+        width: 642px;
+        height: 205px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 70px;
+        text-align: center;
+        color: black;
+        left: 125px;
+        top: 175px;
+    }
 }
