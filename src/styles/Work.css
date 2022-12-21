@@ -141,7 +141,7 @@
     text-align: center;
     color:#f7fcfe;
 }
-@media screen and (max-width:600px) {
+/* @media screen and (max-width:600px) {
     .work-h {
         font-size:36px;
         line-height:50px;
@@ -160,4 +160,4 @@
         left: 125px;
         top: 175px;
     }
-}
+} */
