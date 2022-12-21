@@ -17,17 +17,29 @@ const HomeService = () => {
             />
           );
         })}
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta,
+          inventore minus odio consectetur minima voluptatem eveniet illum ipsam
+          ratione voluptates ex qui sunt quisquam! Consequatur voluptatibus,
+          reiciendis possimus accusamus dicta placeat quam, quae neque rem nulla
+          totam ex suscipit inventore hic quo laboriosam expedita. Eum deleniti
+          modi id accusantium totam?
+        </p>
+        ;
       </div>
     </>
   );
 };
 
-<p>
-  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta, inventore
-  minus odio consectetur minima voluptatem eveniet illum ipsam ratione
-  voluptates ex qui sunt quisquam! Consequatur voluptatibus, reiciendis possimus
-  accusamus dicta placeat quam, quae neque rem nulla totam ex suscipit inventore
-  hic quo laboriosam expedita. Eum deleniti modi id accusantium totam?
-</p>;
+{
+  /* <ul>
+        <li>hlooe</li>
+        <li>misses</li>
+        <li>hshshsha</li>
+    </ul>
+    <div>1</div>
+    <div>2</div>
+    <div>3</div> */
+}
 
 export default HomeService;
