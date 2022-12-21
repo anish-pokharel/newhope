@@ -20,10 +20,10 @@ const HomeService = () => {
         ;
         <p>
           met consectetur adipisicing elit. Soluta, inventore minus odio
-          consectetur minima voluptatem eveniet ijhgkjjjjjjj djgkh fhjdhgdjg
-          ldjkgkjglum ipsam ratione voluptates ex qui sunt quisquam! Consequatur
-          vpossimus accusam hgfj kghjfdhg dfdhgj houigl,hjsuscipit inventore hic
-          quo laboriosam expedita. Eum d
+          consectetgkjjjjjjj djgkh fhjdhgdjg ldjkgkjglum ipsam ratione
+          voluptates ex qui sunt quisquam! Consequatur vpossimus accusam hgfj
+          kghjfdhg dfdhgj houigl,hjsuscipit inventore hic quo laboriosam
+          expedita. Eum d
         </p>
         ;
       </div>{" "}
