@@ -5,6 +5,7 @@ const Blog = () => {
   return (
     <>
       <Wrapper title="Blog" subtitle=" blog with us" />
+      <div className="white"></div>
     </>
   );
 };
