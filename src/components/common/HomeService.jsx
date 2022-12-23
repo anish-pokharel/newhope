@@ -18,29 +18,9 @@ const HomeService = () => {
           );
         })}
         ;
-        <p>
-          met consectetur adipisicing elit. Soluta, inventore minus odio
-          consectetgkjjjjjjj djgkh fhjdhg gjgfj hkhu jkhujl gyjhghatione
-          voluptates ex qui sunt quisquam! Consequatur vpossimus accusam hgfj
-          kghjfdhg dfdhgj houigl,hjsuscipit inventore hic quo laboriosam
-          expedita. Eum d
-        </p>
-        ;
-      </div>{" "}
-      kjholhg uyikyguk uyofyuiy 6tuy67tiky
+      </div>
     </>
   );
 };
-
-{
-  /* <ul>
-        <li>hlooe</li>
-        <li>misses</li>
-        <li>hshshsha</li>
-    </ul>
-    <div>1</div>
-    <div>2</div>
-    <div>3</div> */
-}
 
 export default HomeService;
