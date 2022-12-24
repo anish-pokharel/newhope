@@ -1,5 +1,47 @@
+<<<<<<< HEAD
 .text {
     border: 1px solid;
+=======
+.main-work {
+    position: relative;
+}
+
+.first-work {
+    position: absolute;
+    width: 100%;
+    height: 700px;
+    background-image: url("workk.jpg");
+    border-radius: 0px;
+    top: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.work-h {
+    position: absolute;
+    width: 100%;
+    height: 62px;
+    font-family: 'Vollkorn';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 62px;
+    left: 250px;
+    /* text-transform: capitalize; */
+    color: #0e0c0c;
+    top: 100px;
+}
+
+.work_para {
+    position: absolute;
+    width: 642px;
+    height: 205px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 29px;
+>>>>>>> 33193bbafa43f74946b2888a6fdeee315e567df4
     text-align: center;
     align-content: center;
 
