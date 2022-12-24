@@ -17,18 +17,18 @@ const Work = () => {
           </p>
         </div>
         <div className="next-wpage">
-        <div className="nextpara">
-          <h1 className="work-head">Current Vacancies</h1>
-          <p className="work-newp">
-            There are no current vacancies. Please check again or register your
-            interest below and we’ll be in touch when suitable positions become
-            available.
-          </p>
-          <div className="facebookk"></div>
-          <div className="instagramm"></div>
-          <div className="linkedinn"></div>
-          <div className="twitterr"></div>
-        </div>
+          <div className="nextpara">
+            <h1 className="work-head">Current Vacancies</h1>
+            <p className="work-newp">
+              There are no current vacancies. Please check again or register
+              your interest below and we’ll be in touch when suitable positions
+              become available.
+            </p>
+            <div className="facebookk"></div>
+            <div className="instagramm"></div>
+            <div className="linkedinn"></div>
+            <div className="twitterr"></div>
+          </div>
         </div>
         <div className="photooo"></div>
         <div className="new-formm">

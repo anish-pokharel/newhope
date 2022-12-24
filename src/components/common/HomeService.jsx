@@ -17,6 +17,7 @@ const HomeService = () => {
             />
           );
         })}
+        ;
       </div>
     </>
   );
