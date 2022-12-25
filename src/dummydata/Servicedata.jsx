@@ -81,16 +81,16 @@ export const ServiceBox = [
 
     subTopic: [
       {
-        subtitle1: " Transport Service",
+        subtitle1: " Transport Service: ",
         subtitleinfo1:
           "Getting out and engaging with friends and the community is just as important as enjoying your home environment. We’ll help to ensure you are able to lead a life that’s active and meaningful. ",
-        subtitle2: " Community Access",
+        subtitle2: " Community Access: ",
         subtitleinfo2:
           "Helping you get out into your community and into your local town or city by going with you on public transport. ",
-        subtitle3: " Social Activities",
+        subtitle3: " Social Activities: ",
         subtitleinfo3:
           "Helping you try new things or continue existing activities whilst making friends – from hobbies, recreation, leisure, sports, and arts to community programs like gardening or volunteering. ",
-        subtitle4: " Appointments",
+        subtitle4: " Appointments: ",
         subtitleinfo4:
           "Getting you to and from your medical, school or job appointments. ",
       },
@@ -106,16 +106,16 @@ export const ServiceBox = [
     p: " Having a clean and neat home environment is important for wellbeing, and our friendly support staff can help you with tasks such as cleaning, laundry, shopping, dishwashing, meal preparation and home maintenance.We provide domestic and personal assistance, as well as home maintenance assistance, to ensure that your home is safe and accessible. ",
     subTopic: [
       {
-        subtitle1: " Home Maintenance",
+        subtitle1: " Home Maintenance: ",
         subtitleinfo1:
           " We can help you get to things that can be hard to reach-like changing light bulbs or smoke alarm batteries.",
-        subtitle2: " House Cleaning",
+        subtitle2: " House Cleaning: ",
         subtitleinfo2:
           "Tidying, washing dishes and helping to maintain a clean home for you to relax in. ",
-        subtitle3: " Minor Repairs",
+        subtitle3: " Minor Repairs: ",
         subtitleinfo3:
           "Taking care of fixtures and fittings such as taps and paint chips that naturally wear out over time and require repairs and servicing. ",
-        subtitle4: " Gardening & Lawn Care",
+        subtitle4: " Gardening & Lawn Care: ",
         subtitleinfo4:
           "Keeping your garden and lawn healthy and looking great from season to season. ",
       },
@@ -132,13 +132,13 @@ export const ServiceBox = [
 
     subTopic: [
       {
-        subtitle1: " Lower Needs",
+        subtitle1: " Lower Needs: ",
         subtitleinfo1:
           " Typically, not 24/7, providing supervision of living arrangements to ensure your home is right for you.",
-        subtitle2: " Standard Needs",
+        subtitle2: " Standard Needs: ",
         subtitleinfo2:
           " Providing active assistance and supervision for most daily tasks, and 24/7 support. ",
-        subtitle3: " Higher Needs",
+        subtitle3: " Higher Needs: ",
         subtitleinfo3:
           "Highly frequent assistance, active assistance with all daily tasks, and support in managing challenging behaviors. ",
       },

@@ -1,4 +1,5 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 import HomeService from "../components/common/HomeService";
 import Wrapper1 from "../components/common/wrapper/Wrapper1";
 import "../styles/Home.css";
@@ -16,9 +17,9 @@ const Home = () => {
           <p className="homepara">
             Personalised Disability & Home Care Services.
           </p>
-          <button className="home_btn" onClick={() => setShowMore(!showMore)}>
-            Click Here to Get Started
-          </button>
+          <NavLink to="/Contact">
+            <button className="home_btn">Click Here to Get Started</button>
+          </NavLink>
         </div>
       </div>
       <HomeService />
