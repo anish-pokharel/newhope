@@ -1,22 +1,19 @@
 export const ServiceData = [
   {
     id: 1,
-    cover:
-      "APA.jpg",
-      title: "Development-Life ",
+    cover: "APA.jpg",
+    title: "Development-Life ",
     desc: "Development of daily living and life skills focuses on training and development activities.",
   },
   {
     id: 2,
-    cover:
-      "neww.jpg",
+    cover: "neww.jpg",
     title: "Respect",
     desc: "Assisting with and/or supervising personal tasks of daily life to enable the participant to.",
   },
   {
     id: 3,
-    cover:
-      "baack.webp",
+    cover: "baack.webp",
     title: "Assistance Life Tasks",
     desc: "This registration group incorporates assistance with or supervising tasks of daily lifes.",
   },
