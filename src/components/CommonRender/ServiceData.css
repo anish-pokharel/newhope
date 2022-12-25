@@ -38,7 +38,7 @@
 .ser-two {
     position: relative;
     width: 100%;
-    height: 1400px;
+    height: 80rem;
     border-radius: 0px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -49,7 +49,7 @@
 .ser-he {
     position: absolute;
     width: 100%;
-    height: 62px;
+    /* height: 62px; */
     top: 25px;
     font-family: 'Vollkorn';
     font-style: normal;
@@ -64,8 +64,9 @@
     position: absolute;
     width: 506px;
     height: 320px;
-    left: 650px;
+    /* left: 650px; */
     top: 170px;
+    left: 35rem;
     /* background: url("daily.webp"); */
     filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.5));
     border-radius: 40px 10px;
@@ -79,7 +80,8 @@
     position: absolute;
     width: auto;
     height: 45px;
-    left: 835px;
+    /* left: 835px; */
+    left: 45rem;
     color: rgb(234, 234, 241);
     top: 525px;
     font-weight: 600;
@@ -91,8 +93,9 @@
     position: absolute;
     width: 1000px;
     /* height: 128px; */
-    height: 175px;
-    left: 450px;
+    /* height: 175px; */
+    /* left: 450px; */
+    left: 20rem;
     top: 600px;
     font-family: 'Roboto';
     font-style: normal;
@@ -103,14 +106,14 @@
 }
 
 .listt {
-    border: 1px solid black;
     position: absolute;
     /* width: 1000px; */
     width: 65rem;
     ;
     /* height: 227px; */
-    height: 34rem;
-    left: 450px;
+    /* height: 34rem; */
+    /* left: 400px; */
+    left: 20rem;
     /* top: 850px; */
     top: 790px;
     font-family: 'Roboto';
@@ -119,110 +122,3 @@
     font-size: 25px;
     line-height: 36px;
 }
-
-/* .page-thre{
-    position: relative;
-    width: 100%;
-    height: 3000px;
-    border-radius: 0px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-color: rgb(238, 226, 226);
-}
-.ser-the{
-    position: absolute;
-    width: 100%;
-    height: 62px;
-    top:25px;
-    font-family: 'Vollkorn';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 58px;
-    text-align: center;
-    color: #0c0c0c;
-}
-.ser-t{
-    position: absolute;
-    width: 100%;
-    height: 62px;
-    left:125px;
-    top:100px;
-    font-family: 'Vollkorn';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 58px;
-    color: #0c0c0c;
-}
-.small-photo{
-    position: absolute;
-    width: 506px;
-    height: 320px;
-    left: 650px;
-    top: 170px;
-    background: url("development.jpg");
-    filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.5));
-    border-radius: 40px 10px;
-    background-size: cover;
-}
-#myButtonn{
-    position: absolute;
-    width: auto;
-    height: 40px;
-    left: 835px;
-    color: rgb(234, 234, 241);
-    top: 530px;
-    font-weight: 600;
-    font-size: 25px;
-    background-color: rgb(60, 60, 194);
-}
-.addp{
-    position: absolute;
-    width: 100%;
-    height: 40px;
-    top: 1000px;
-    font-family: 'Vollkorn';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 30px;
-    line-height: 20px;
-    color: #0a0b0b;
-    text-align: center;
-}
-.lists{
-    position: absolute;
-    width: 1000px;
-    height: 227px;
-    left: 450px;
-    top: 1100px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 36px; 
-}
-.hew{
-    position: absolute;
-    width: 100%;
-    height: 40px;
-    top: 1500px;
-    font-family: 'Vollkorn';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 30px;
-    line-height: 20px;
-    color: #0a0b0b;
-    text-align: center;
-} 
-.listss{
-    position: absolute;
-    width: 1000px;
-    height: 227px;
-    left: 450px;
-    top: 1800px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 36px;   
-} */
