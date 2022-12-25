@@ -25,11 +25,11 @@ const Service = () => {
                     return (
                       <>
                         <div className="listt" key={index}>
-                          <ul>
+                          <ol>
                             <li>
-                              <strong>{details.subtitle}</strong>
-
-                              {details.subtitleinfo}
+                              <strong>{details.subtitle1}</strong>
+                              <br />
+                              {details.subtitleinfo1}
                             </li>
                             <li>
                               <strong>{details.subtitle2}</strong>
@@ -56,7 +56,7 @@ const Service = () => {
                               <br />
                               {details.subtitleinfo6}
                             </li>
-                          </ul>
+                          </ol>
                         </div>
                       </>
                     );
