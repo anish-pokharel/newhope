@@ -1,14 +1,14 @@
 export const AboutData = [
   {
     id: 1,
-    logo: "devel.jpg",
+    logo: "honesty.webp",
     title: "Honesty",
     desc: "  We provide high quality care with transparency and integrity. ",
   },
 
   {
     id: 2,
-    logo: "https://images.pexels.com/photos/114907/pexels-photo-114907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    logo: "respect.jpg",
     title: "Respect",
     desc: "We provide a safe environment for participants by giving them respect.",
   },
