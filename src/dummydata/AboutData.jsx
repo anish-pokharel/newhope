@@ -15,15 +15,15 @@ export const AboutData = [
 
   {
     id: 3,
-    logo: "https://images.pexels.com/photos/114907/pexels-photo-114907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    logo: "inclusiveness.jpg",
 
-    title: "    Inclusiveness",
+    title: "Inclusiveness",
     desc: " We provide a happy, fun and open environment for all. ",
   },
 
   {
     id: 4,
-    logo: "https://images.pexels.com/photos/114907/pexels-photo-114907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    logo: "quality.jpg",
     title: "Quality",
     desc: " We strive for excellence through high quality systems and procedures. ",
   },
