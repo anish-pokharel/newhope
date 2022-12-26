@@ -71,7 +71,7 @@ export const ServiceBox = [
   {
     id: 3,
     cover:
-      "transport3.jpg",
+      "transport3.jpeg",
     title: "Assistance With Travel/Transport Arrangements",
 
     p: " We are passionate about helping you to be as independent as possible by providing safe and reliable transport to get to and from appointments and whatever else you need to do in your community. If getting around independently is your goal, then our friendly staff can help you build capacity to use public transport safely and with confidence. ",
