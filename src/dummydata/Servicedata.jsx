@@ -22,7 +22,7 @@ export const ServiceBox = [
   {
     id: 1,
     cover:
-      "https://images.pexels.com/photos/114907/pexels-photo-114907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "service 1 daily.jpeg",
     title: "Daily Personal Activities",
 
     p: " We help with and/or supervise personal daily life tasks to enable you to live as autonomously as possible. We provide individual support in a range of environments, including but not limited to, your own home. We’ll assist you with your daily life, whether you only need a little help getting your day started or more ongoing support. Our services are highly personalized to meet your unique requirements ",
@@ -48,7 +48,7 @@ export const ServiceBox = [
   {
     id: 2,
     cover:
-      "https://images.pexels.com/photos/114907/pexels-photo-114907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "service 1 daily.jpeg",
     title: "Development Of Daily Living And Life Skills",
 
     p: "We focus on training and development activities to increase your ability to live as autonomously as possible to develop your daily living and life skills. We provide support to enhance your ability to travel and use public transport independently. ",
