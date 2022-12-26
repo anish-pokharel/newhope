@@ -121,7 +121,7 @@ export const ServiceBox = [
   {
     id: 5,
     cover:
-      "https://images.pexels.com/photos/114907/pexels-photo-114907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "assistance5.jpg",
     title:
       "Assistance With Daily Life Tasks In A Group Or Shared Living Arrangement",
 
