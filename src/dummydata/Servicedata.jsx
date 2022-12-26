@@ -22,7 +22,7 @@ export const ServiceBox = [
   {
     id: 1,
     cover:
-      "service 1 daily.jpeg",
+      "service1daily.jpg",
     title: "Daily Personal Activities",
 
     p: " We help with and/or supervise personal daily life tasks to enable you to live as autonomously as possible. We provide individual support in a range of environments, including but not limited to, your own home. We’ll assist you with your daily life, whether you only need a little help getting your day started or more ongoing support. Our services are highly personalized to meet your unique requirements ",
@@ -48,7 +48,7 @@ export const ServiceBox = [
   {
     id: 2,
     cover:
-      "service 1 daily.jpeg",
+      "devekio2.jpg",
     title: "Development Of Daily Living And Life Skills",
 
     p: "We focus on training and development activities to increase your ability to live as autonomously as possible to develop your daily living and life skills. We provide support to enhance your ability to travel and use public transport independently. ",
@@ -71,7 +71,7 @@ export const ServiceBox = [
   {
     id: 3,
     cover:
-      "https://images.pexels.com/photos/114907/pexels-photo-114907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "transport3.jpg",
     title: "Assistance With Travel/Transport Arrangements",
 
     p: " We are passionate about helping you to be as independent as possible by providing safe and reliable transport to get to and from appointments and whatever else you need to do in your community. If getting around independently is your goal, then our friendly staff can help you build capacity to use public transport safely and with confidence. ",
