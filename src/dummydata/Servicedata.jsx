@@ -97,7 +97,7 @@ export const ServiceBox = [
   {
     id: 4,
     cover:
-      "https://images.pexels.com/photos/114907/pexels-photo-114907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "household3.jpg",
     title: "Household Tasks",
 
     p: " Having a clean and neat home environment is important for wellbeing, and our friendly support staff can help you with tasks such as cleaning, laundry, shopping, dishwashing, meal preparation and home maintenance.We provide domestic and personal assistance, as well as home maintenance assistance, to ensure that your home is safe and accessible. ",
