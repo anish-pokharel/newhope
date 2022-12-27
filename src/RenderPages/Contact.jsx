@@ -3,6 +3,7 @@ import "../styles/Contact.css";
 import Wrapper from "../components/common/Wrapper";
 
 import { ContactData } from "../dummydata/ContactData";
+import Contactus from "../components/common/Contactus/Contactus";
 
 const Contact = () => {
   return (
@@ -32,6 +33,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
+      <Contactus />
     </>
   );
 };

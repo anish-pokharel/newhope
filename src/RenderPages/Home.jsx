@@ -1,5 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import Contactus from "../components/common/Contactus/Contactus";
 import HomeService from "../components/common/HomeService";
 import Wrapper1 from "../components/common/wrapper/Wrapper1";
 import "../styles/Home.css";
@@ -24,6 +25,7 @@ const Home = () => {
       </div>
       <HomeService />
       <Wrapper1 />
+      <Contactus />
     </>
   );
 };

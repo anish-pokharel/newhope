@@ -16,7 +16,7 @@ const About = () => {
             <CommonDesc
               key={data.id}
               title={data.title}
-              cover={data.cover}
+              logo={data.logo}
               p={data.p}
             />
           );
@@ -39,7 +39,7 @@ const About = () => {
           return (
             <Wrapper3
               key={value.id}
-              cover={value.cover}
+              cover={value.logo}
               title={value.title}
               desc={value.desc}
             />
