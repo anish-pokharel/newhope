@@ -8,11 +8,10 @@ export const ContactData = [
 
   {
     id: 2,
-    logo: "fb fa-facebook-f icon   ",
+    logo: "fab fa-facebook-f icon   ",
     title: "Phone Number",
     desc: " 1300424442 ",
   },
-
 
   {
     id: 3,
