@@ -13,7 +13,9 @@ export const Work = () => {
         <div class="work-two">
             <h1 class="work-twoo">Current Vacancies</h1>
             <p class="work-twooo">There are no current vacancies. Please check again or register your interest below and we’ll be in touch when suitable positions become available.</p>
-            <div class="work-twoooo"></div>
+            <div class="work-twoooo">
+                
+            </div>
         </div>
         <div class="work-three"/>
             <form class="formm"/>
