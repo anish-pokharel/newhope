@@ -14,6 +14,7 @@
               <br/>                
               We hope you find this as helpful as we did, a lot of information about NDIS can be found from the button below</p>
               </div>
+              <div class="video">
               <iframe class ="video1" src="https://www.youtube.com/embed/qZOjPBJiBPg" title="What is the NDIS?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
               <iframe class="video2" src="https://www.youtube.com/embed/aF3gGRNRnkk" title="Accessing the NDIS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
