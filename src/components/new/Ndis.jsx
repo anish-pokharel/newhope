@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 
  const Ndis = () => {
@@ -7,6 +8,17 @@ import React from "react";
   <div className="naidsmain">
         <h1 className="naidh">Registered NDIS Provider</h1>
         <p className="naidp">Home » Registered NDIS Provider</p>
+=======
+ import React from 'react'
+ 
+ export const ndis = () => {
+   return (
+    <>
+        <div class="naidsmain">
+        <h1 class="naidh">Registered NDIS Provider</h1>
+        {/* <h1 class="nah">Registed NDIS Provider</h1> */}
+        <p class="naidp">Home » Registered NDIS Provider</p>
+>>>>>>> 3c5d6c623eb3d18c1c44666c17ac7e5573364cb8
         </div>
         <div className="naidnex">
             <p className="naidsp">The below information is about NDIS, how it works, who qualifies for NDIS, what funding is available and what can it be spent on, careers as a support worker. If you have any questions, please asks for more information.
