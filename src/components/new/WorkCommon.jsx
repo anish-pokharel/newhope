@@ -1,12 +1,13 @@
 import React from "react";
+import "./WorkCommon.css";
 
 const WorkCommon = () => {
   return (
     <>
-      <div className="work-one">
+      {/* <div className="work-one">
         <h1 className="work-onee">Work With Us</h1>
         <p className="work-oneee">Home » Work With Us</p>
-      </div>
+      </div> */}
       <div className="new-secc">
         <p className="new-seccc">
           We are always on the lookout for the best Disability Support Workers
