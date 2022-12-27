@@ -1,13 +1,27 @@
 import React from "react";
 import Wrapper from "../components/common/Wrapper";
-import { AboutData } from "../dummydata/AboutData";
+import { AboutData, AboutDatas, AboutmainDatas } from "../dummydata/AboutData";
 import MainBox from "../components/CommonRender/MainBox";
 import "../styles/About.css";
+import Wrapper3 from "../components/common/wrapper3";
+import CommonDesc from "../components/common/CommonDesc";
 
 const About = () => {
   return (
     <>
       <Wrapper title="About " subtitle="About" />
+      <div>
+        {AboutmainDatas.map((data) => {
+          return (
+            <CommonDesc
+              key={data.id}
+              title={data.title}
+              cover={data.cover}
+              p={data.p}
+            />
+          );
+        })}
+      </div>
       <div className="container grid grid-four-column">
         {AboutData.map((val) => {
           return (
@@ -16,6 +30,18 @@ const About = () => {
               cover={val.logo}
               title={val.title}
               desc={val.desc}
+            />
+          );
+        })}
+      </div>
+      <div>
+        {AboutDatas.map((value) => {
+          return (
+            <Wrapper3
+              key={value.id}
+              cover={value.cover}
+              title={value.title}
+              desc={value.desc}
             />
           );
         })}
