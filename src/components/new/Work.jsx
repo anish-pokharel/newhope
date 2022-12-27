@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-export const Work = () => {
+ const Work = () => {
   return (
     <>
         <div class="work-one">
@@ -21,11 +21,11 @@ export const Work = () => {
                 <p class="work-formm">Please register your interest below and we’ll be in touch soon.</p>
                 <p class="workfp">"*" indicates required fields</p>
                 <label class="fnamee" for="fname" > Name*</label>
-                <input type="text" id="fname" name="name"><br>
+                <input type="text" id="fname" name="name"/><br/>
                 <label class="femaill" for="email">Enter your Email*</label>
-               <input type="email" id="emaiil" name="email"><br>
+               <input type="email" id="emaiil" name="email"/><br/>
                <label class="fphonee" for="phone">Phone*</label>
-               <input type="tel" id="phonee" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}">
+               <input type="tel" id="phonee" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"/>
                <label class="ffile" for="file">Upload CV*</label>
                <input type="file" id="myFile" name="filename"><br>
                <p class="maxx">Max. file size: 8 MB.</p>
@@ -33,7 +33,8 @@ export const Work = () => {
                <textarea rows="4" cols="50" name="comment" form="usrform" id="textare"></textarea>
                <input class="submitt" type="submit" value="Submit">
             </form>
-        </div>
-    </>
-  )
-}
+        <div/>
+    <>
+  );
+};
+export default Work;

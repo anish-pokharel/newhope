@@ -1,25 +1,22 @@
 import React from "react";
 
-export const ndis = () => {
+export const Ndis = () => {
   return (
-    <>
-      <div class="naidsmain">
+  <>
+  
+  <div class="naidsmain">
         <h1 class="naidh">Registered NDIS Provider</h1>
         <p class="naidp">Home » Registered NDIS Provider</p>
-      </div>
-      <div class="naidnex">
-        <p class="naidsp">
-          The below information is about NDIS, how it works, who qualifies for
-          NDIS, what funding is available and what can it be spent on, careers
-          as a support worker. If you have any questions, please asks for more
-          information.
-          <br />
-          <br />
-          <br />
-          We hope you find this as helpful as we did, a lot of information about
-          NDIS can be found from the button below
-        </p>
-      </div>
+        </div>
+        <div class="naidnex">
+            <p class="naidsp">The below information is about NDIS, how it works, who qualifies for NDIS, what funding is available and what can it be spent on, careers as a support worker. If you have any questions, please asks for more information.
+              <br/>
+              <br/>
+              <br/>                
+              We hope you find this as helpful as we did, a lot of information about NDIS can be found from the button below</p>
+              </div>
+              <div class="video">
+              <iframe class ="video1" src="https://www.youtube.com/embed/qZOjPBJiBPg" title="What is the NDIS?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       <iframe
         class="video1"
@@ -119,6 +116,8 @@ export const ndis = () => {
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
       ></iframe>
-    </>
-  );
+  
+  </>);
 };
+
+export default Ndis;
