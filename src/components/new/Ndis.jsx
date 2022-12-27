@@ -1,10 +1,10 @@
  import React from 'react'
  
- export const ndis = () => {
+ export const Ndis = () => {
    return (
     <>
-        <div class="naidsmain">
-        <h1 class="naidh">Registered NDIS Provider</h1>
+        <div   className="naidsmain">
+        <h1 className="naidh">Registered NDIS Provider</h1>
         {/* <h1 class="nah">Registed NDIS Provider</h1> */}
         <p class="naidp">Home » Registered NDIS Provider</p>
         </div>
@@ -108,16 +108,16 @@
         allowfullscreen
       ></iframe>
 
-      <iframe
-        className="video11"
-        src="https://www.youtube.com/embed/hPNA0WROnqE"
-        title="NDIS Disability Support Worker: Gregg Sinnamon"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      ></iframe>
-  
-  </>
+        <iframe
+          className="video11"
+          src="https://www.youtube.com/embed/hPNA0WROnqE"
+          title="NDIS Disability Support Worker: Gregg Sinnamon"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </>
   );
 };
 
