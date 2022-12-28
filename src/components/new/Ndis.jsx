@@ -112,7 +112,6 @@ export const Ndis = () => {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
-
           <iframe
             className="video10"
             src="https://www.youtube.com/embed/cObGJAWit2w"
