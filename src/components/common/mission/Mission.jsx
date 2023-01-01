@@ -1,5 +1,5 @@
 import React from "react";
-import mission from "../../image/mission.webp";
+import mission from "../../../../public/images/mission.webp";
 import "./Mission.css";
 
 const Mission = () => {
