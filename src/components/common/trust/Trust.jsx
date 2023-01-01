@@ -1,19 +1,19 @@
 import React from "react";
-import Title from "../common/Title";
+// import Title from "../common/Title";
 import "./Trust.css";
 import about from "../../../../public/images/about.jpg";
+import { NavLink } from "react-router-dom";
 
-import about from "../../image/about.jpg";
 const Trust = () => {
   return (
     <>
       <section>
-        <Title title="We're All About Trust" className="padding" />
-        <div className="flexTr height ">
+        {/* <Title title="We're All About Trust" className="padding" /> */}
+        <div className="flexMI height ">
           <div className="right image">
-            <img src={about} alt="" className="aboutimg" />
+            <img src={about} alt="" className="missionimg" />
           </div>
-          <div className="left text top ">
+          <div className="left text  ">
             <div className="flexTr ">
               <p className="padding desc ">
                 Hope Ability management has years of experience in disability
@@ -21,7 +21,9 @@ const Trust = () => {
                 public and private sector. Our vision is to empower participants
                 to take ownership of their life.
               </p>
-              <button className="Btn">About Hope Ability</button>
+              <NavLink to={"/about"}>
+                <button className="Btn">About Hope Ability</button>
+              </NavLink>
             </div>
           </div>
         </div>
