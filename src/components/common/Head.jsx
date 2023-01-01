@@ -1,4 +1,6 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
+
 import "./Head.css";
 const Head = () => {
   return (
@@ -6,8 +8,10 @@ const Head = () => {
       <section className="head">
         <div className="container flexSB">
           <div className="logo">
-            <h1>Hope</h1>
-            <span>Ability</span>
+            <NavLink to={"/"}>
+              <h1>Hope</h1>
+              <span>Ability</span>
+            </NavLink>
           </div>
           <div className="social">
             <i className="fab fa-facebook-f icon"></i>

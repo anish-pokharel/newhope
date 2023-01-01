@@ -1,6 +1,6 @@
 .head {
     padding: 20px 0;
-    color: rgb(183, 172, 172);
+    color: black;
 }
 
 .head .logo h1 {
@@ -9,7 +9,7 @@
 }
 
 .head .icon {
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 header {
