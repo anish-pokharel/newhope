@@ -14,6 +14,7 @@ const Trust = () => {
             <img src={about} alt="" className="missionimg" />
           </div>
           <div className="left text  ">
+            <h1>Our Trust</h1>
             <div className="flexTr ">
               <p className="padding desc ">
                 Hope Ability management has years of experience in disability
