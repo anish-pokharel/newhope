@@ -9,12 +9,12 @@
 }
 
 .head .icon {
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 header {
-    background-color: rgba(7, 7, 7, 0.2);
-    margin: 0 30px;
+    background-color: rgba(0, 0, 0, 0.781);
+    margin: 0 0px;
     position: relative;
 }
 
@@ -37,7 +37,7 @@ header ul li a {
 }
 
 header ul li a:hover {
-    color: #1eb2a6;
+    color: #729b97;
 }
 
 .toggle {
