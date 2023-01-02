@@ -1,0 +1,63 @@
+.height {
+    text-align: center;
+    height: 450px;
+    /* border: 2px solid; */
+    position: relative;
+    background-color: white;
+}
+
+.right,
+.left {
+    /* position: absolute; */
+    /* border: 2px solid black; */
+    width: 700px;
+    height: 400px;
+    margin: 1px;
+}
+
+.flexMI .right .missionimg {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: 20px;
+    border-radius: 30% 15%;
+}
+
+.flexMI .left {
+    height: 250px;
+    align-items: center;
+    align-content: center;
+}
+
+.flexMI .left h1 {
+    text-transform: capitalize;
+
+}
+
+.flexMI .left p {
+    margin-top: 20px;
+    padding: 20px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+}
+
+.flexMI .right:hover img {
+    transform: scale(1.1);
+    transition: 0.5s ease-in-out;
+}
+
+@media screen and (max-width: 415px) {
+    .height {
+        height: 700px;
+        position: relative;
+    }
+
+    .right,
+    .left {
+        height: 350px;
+        margin: 0;
+        padding: 0;
+    }
+
+}

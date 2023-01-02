@@ -1,5 +1,6 @@
 import React from "react";
-import "./Location.jsx";
+import "./Location.css";
+// import second from './LOCA'
 
 const Location = () => {
   // const map =

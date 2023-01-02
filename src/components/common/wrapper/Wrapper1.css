@@ -4,7 +4,8 @@
     text-align: center;
     align-items: center;
     justify-content: center;
-    background-color: rgb(141, 157, 172);
+    /* background-color: rgb(141, 157, 172); */
+    background-color: whitesmoke;
 }
 
 .registered,
