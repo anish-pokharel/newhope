@@ -13,7 +13,7 @@ const Trust = () => {
           <div className="right image">
             <img src={about} alt="" className="missionimg" />
           </div>
-          <div className="left text  ">
+          <div className="left text lefts ">
             <h1>Our Trust</h1>
             <div className="flexTr ">
               <p className="padding desc ">

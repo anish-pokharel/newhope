@@ -43,6 +43,7 @@ li {
 
 .flexMI {
     display: flex;
+    width: 98%;
     flex-wrap: wrap;
     justify-content: space-between;
 }

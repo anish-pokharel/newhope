@@ -9,7 +9,7 @@ const Mission = () => {
         <div className="right image">
           <img src={mission} alt="" className="missionimg" />
         </div>
-        <div className="left text">
+        <div className="left text  lefts">
           <h1>Our mission</h1>
           <p className="padding desc ">
             Our Mission Our mission is to empower people with a disability to
