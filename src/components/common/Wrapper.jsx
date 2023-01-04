@@ -6,7 +6,7 @@ const Wrapper = ({ title, subtitle }) => {
       <div className="maincontainer">
         <div className="wrapper">
           <h1>{title}</h1>
-          <p>{subtitle}</p>
+          {/* <p>{subtitle}</p> */}
         </div>
       </div>
     </>
