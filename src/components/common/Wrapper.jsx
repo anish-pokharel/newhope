@@ -1,6 +1,6 @@
 import React from "react";
 import "./Wrapper.css";
-const Wrapper = ({ title, subtitle }) => {
+const Wrapper = ({ title }) => {
   return (
     <>
       <div className="maincontainer">

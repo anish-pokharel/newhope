@@ -6,7 +6,7 @@ const Work = () => {
   return (
     <>
       <section className="container main-work">
-        <Wrapper title="Work" subtitle=" Work" />
+        <Wrapper title="Work" />
         <WorkCommon />
       </section>
     </>

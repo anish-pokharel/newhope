@@ -4,6 +4,8 @@
     width: 100%;
     height: 25rem;
     /* border: 10px solid black; */
+    /* border: 20px solid green; */
+
 
 }
 
@@ -14,9 +16,10 @@
     height: 400px;
     left: 0;
     /* top: 90px; */
-    background: #A58E8E;
+    /* background: #A58E8E; */
     /* border: 4px solid green; */
 }
+
 
 .wrapper h1 {
     position: absolute;

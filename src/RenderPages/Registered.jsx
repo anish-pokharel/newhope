@@ -5,7 +5,7 @@ import Ndis from "../components/new/Ndis";
 const Registered = () => {
   return (
     <>
-      <Wrapper title="Registered" subtitle=" regristration" />
+      <Wrapper title="Registered" />
       <Ndis />
     </>
   );

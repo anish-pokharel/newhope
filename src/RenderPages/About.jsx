@@ -9,7 +9,7 @@ import CommonDesc from "../components/common/CommonDesc";
 const About = () => {
   return (
     <>
-      <Wrapper title="About " subtitle="About" />
+      <Wrapper title="About " />
       <div>
         {AboutmainDatas.map((data) => {
           return (

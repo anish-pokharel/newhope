@@ -9,7 +9,7 @@ const Contact = () => {
   return (
     <>
       <div className="maincontainer1 contact">
-        <Wrapper title="contact us" subtitle="Contact" />
+        <Wrapper title="contact us" />
         <div className="contact-section">
           <h2>Ready To Learn More ?</h2>
           <p>

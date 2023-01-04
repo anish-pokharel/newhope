@@ -10,7 +10,7 @@ const Service = () => {
   return (
     <>
       <>
-        <Wrapper title=" Service" subtitle="Service" />
+        <Wrapper title=" Service" />
         {ServiceBox.map((val) => {
           return (
             <>
