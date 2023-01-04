@@ -1,9 +1,9 @@
 export const ContactData = [
   {
     id: 1,
-    logo: "fab fa-facebook-f icon   ",
+    logo:  "far fa-location-dot icon   ",
     title: "Address",
-    desc: "  3 Grumman Court, Zuccoli <br /> Northen Territory 0832 ",
+    desc: "  3 Grumman Court, Zuccoli Northen Territory 0832 ",
   },
 
   {

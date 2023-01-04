@@ -10,18 +10,20 @@
     background-size: cover;
     z-index: -1;
 }
-.h_cont{
+/* .h_cont{
     position: absolute;
     width: 500px;
     height: 60px;
     left: 200px;
     font-size:larger;
     font-weight: 900;
-}
+} */
 .h_cont {
     position: absolute;
-    width: 453px;
+    /* width: 453px; */
+    width:28rem;
     height: 55px;
+    left: 200px;
     font-family: 'Vollkorn';
     font-style: normal;
     font-weight: 400;
@@ -46,7 +48,8 @@
 }
 .cont_form{
     position: absolute;
-    width: 1519px;
+    /* width: 1519px; */
+    width: 80%;
     height: 653px;
     left: 0px;
     top: 150px;

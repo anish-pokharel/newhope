@@ -8,11 +8,15 @@
 
 .right,
 .left {
-    /* position: absolute; */
+    position: absolute;
     /* border: 2px solid black; */
-    width: 700px;
+    /* width: 700px; */
+    width: 50%;
     height: 400px;
     margin: 1px;
+}
+.lefts{
+    left: 50%;
 }
 
 .flexMI .right .missionimg {
