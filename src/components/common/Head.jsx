@@ -1,5 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import Logo from "./images/mainlogo.png";
 
 import "./Head.css";
 const Head = () => {
@@ -9,8 +10,7 @@ const Head = () => {
         <div className="container flexSB">
           <div className="logo">
             <NavLink to={"/"}>
-              <h1>Hope</h1>
-              <span>Ability</span>
+              <img src="Logo" alt="" />
             </NavLink>
           </div>
           <div className="social">
