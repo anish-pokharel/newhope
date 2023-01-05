@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import Logo from "./images/mainlogo.png";
+import Logo from "../../../public/images/mainlogo.png";
 
 import "./Head.css";
 const Head = () => {
@@ -10,7 +10,7 @@ const Head = () => {
         <div className="container flexSB">
           <div className="logo">
             <NavLink to={"/"}>
-              <img src="Logo" alt="" />
+              <img className="main-logo" src={Logo} alt="" />
             </NavLink>
           </div>
           <div className="social">
