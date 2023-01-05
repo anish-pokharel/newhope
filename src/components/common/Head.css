@@ -1,6 +1,7 @@
 .head {
-    padding: 20px 0;
+    /* padding: 20px 0; */
     color: black;
+    /* border: 1px solid black; */
 }
 
 .head .logo .main-logo {
@@ -12,7 +13,7 @@
 
 
 .head .icon {
-    margin: 50px 10px 0 10px;
+    margin: 40px 10px 0 10px;
     cursor: pointer;
 
 }
