@@ -1,15 +1,28 @@
 .head {
-    padding: 20px 0;
+    /* padding: 20px 0; */
     color: black;
+    /* border: 1px solid black; */
+}
+
+.head .logo {
+    margin-left: 70px;
 }
 .head .logo .main-logo {
     max-width: 100%;
     height: auto;
 }
 .head .icon {
-    margin: 50px 10px 0 10px;
+    margin: 40px 10px 0 10px;
     cursor: pointer;
 }
+<<<<<<< HEAD
+=======
+
+.head .social {
+    margin-right: 100px;
+}
+
+>>>>>>> b0b44761d647b4f61ed5a6ab48f0ab3242150aba
 header {
     background-color: rgba(0, 0, 0, 0.781);
     margin: 0 0px;
