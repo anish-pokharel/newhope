@@ -4,6 +4,10 @@
     /* border: 1px solid black; */
 }
 
+.head .logo {
+    margin-left: 70px;
+}
+
 .head .logo .main-logo {
     max-width: 100%;
     height: auto;
@@ -16,6 +20,10 @@
     margin: 40px 10px 0 10px;
     cursor: pointer;
 
+}
+
+.head .social {
+    margin-right: 100px;
 }
 
 header {
