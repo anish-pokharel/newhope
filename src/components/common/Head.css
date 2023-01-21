@@ -22,6 +22,11 @@
 
 }
 
+.head .icon:hover {
+    background-color: blue;
+    color: white;
+}
+
 .head .social {
     margin-right: 100px;
 }
